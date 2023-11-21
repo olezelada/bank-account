@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cc8f577-0881-4413-9830-dbac51ea05b1" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../cqrs-es/cqrs.core/target/" />
+    <ignored path="$PROJECT_DIR$/account.common/target/" />
+    <ignored path="$PROJECT_DIR$/account.cmd/target/" />
+    <ignored path="$PROJECT_DIR$/account.query/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/queries/FindAccountWithBalanceQuery.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../cqrs-es/cqrs.core/src/main/java/com/banking/qrs/core/queries/QueryHandlerMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../cqrs-es/cqrs.core/src/main/java/com/banking/qrs/core/infraestructure/QueryDispatcher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="90" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="90" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/infraestructure/AccountQueryDispatcher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/queries/QueryHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/queries/AccountQueryHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="59" column="31" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/QueryApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="28" column="97" selection-start-line="28" selection-start-column="97" selection-end-line="28" selection-end-column="97" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/dto/AccountLookupResponse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#425#426#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/controllers/AccountLookupController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1540">
+              <caret line="104" column="115" selection-start-line="104" selection-start-column="115" selection-end-line="104" selection-end-column="115" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/dto/EqualityType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>3.10.1</find>
+      <find>mvn -N io.takari:maven:wrappe</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../cqrs-es/cqrs.core/src/main/java/com/banking/qrs/core/Application.java" />
+        <option value="$PROJECT_DIR$/../cqrs-es/cqrs.core/src/main/java/com/banking/qrs/core/domain/AggregateRoot.java" />
+        <option value="$PROJECT_DIR$/../cqrs-es/cqrs.core/src/main/java/com/banking/qrs/core/infraestructure/EventStore.java" />
+        <option value="$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/domain/EventStoreRepository.java" />
+        <option value="$PROJECT_DIR$/../cqrs-es/cqrs.core/src/main/java/com/banking/qrs/core/exceptions/ConcurrencyException.java" />
+        <option value="$PROJECT_DIR$/../cqrs-es/cqrs.core/src/main/java/com/banking/qrs/core/events/EventModel.java" />
+        <option value="$PROJECT_DIR$/../cqrs-es/cqrs.core/src/main/java/com/banking/qrs/core/exceptions/AggregateNotFoundException.java" />
+        <option value="$PROJECT_DIR$/../cqrs-es/cqrs.core/src/main/java/com/banking/qrs/core/handlers/EventSourcingHandler.java" />
+        <option value="$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/infraestructure/AccountEventSourcingHandler.java" />
+        <option value="$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/api/command/CommnadHandler.java" />
+        <option value="$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/domain/AccountAggregate.java" />
+        <option value="$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/api/command/AccountCommandHandler.java" />
+        <option value="$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/CommandApplication.java" />
+        <option value="$PROJECT_DIR$/account.cmd/pom.xml" />
+        <option value="$PROJECT_DIR$/../cqrs-es/cqrs.core/src/main/java/com/banking/qrs/core/producers/EventProducer.java" />
+        <option value="$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/infraestructure/AccountEventStore.java" />
+        <option value="$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/infraestructure/AccountEventProducer.java" />
+        <option value="$PROJECT_DIR$/../cqrs-es/cqrs.core/src/main/java/com/banking/qrs/core/domain/BaseEntity.java" />
+        <option value="$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/domain/BankAccount.java" />
+        <option value="$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/domain/AccountRepository.java" />
+        <option value="$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/infraestructure/handlers/AccountEventHandler.java" />
+        <option value="$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/infraestructure/handlers/EventHandler.java" />
+        <option value="$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/infraestructure/consumers/EventConsumer.java" />
+        <option value="$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/infraestructure/consumers/AccountEventConsumer.java" />
+        <option value="$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/api/command/WithdrawFundsCommand.java" />
+        <option value="$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/api/dto/OpenAccountResponse.java" />
+        <option value="$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/api/controllers/OpenAccountController.java" />
+        <option value="$PROJECT_DIR$/account.cmd/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/account.query/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../cqrs-es/cqrs.core/.mvn/wrapper/maven-wrapper.properties" />
+        <option value="$PROJECT_DIR$/../cqrs-es/cqrs.core/mvnw.cmd" />
+        <option value="$PROJECT_DIR$/../cqrs-es/cqrs.core/pom.xml" />
+        <option value="$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/api/controllers/DepositFundsController.java" />
+        <option value="$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/api/controllers/WithdrawFundsController.java" />
+        <option value="$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/api/controllers/CloseAccountController.java" />
+        <option value="$PROJECT_DIR$/account.common/src/main/java/com/banking/account/common/events/AccountClosedEvent.java" />
+        <option value="$PROJECT_DIR$/../cqrs-es/cqrs.core/src/main/java/com/banking/qrs/core/queries/BaseQuery.java" />
+        <option value="$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/queries/FindAccountByHolderQuery.java" />
+        <option value="$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/queries/FindAllAccountsQuery.java" />
+        <option value="$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/queries/FindAccountByIdQuery.java" />
+        <option value="$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/dto/EqualityType.java" />
+        <option value="$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/queries/FindAccountWithBalanceQuery.java" />
+        <option value="$PROJECT_DIR$/../cqrs-es/cqrs.core/src/main/java/com/banking/qrs/core/queries/QueryHandlerMethod.java" />
+        <option value="$PROJECT_DIR$/../cqrs-es/cqrs.core/src/main/java/com/banking/qrs/core/infraestructure/QueryDispatcher.java" />
+        <option value="$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/infraestructure/AccountQueryDispatcher.java" />
+        <option value="$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/queries/QueryHandler.java" />
+        <option value="$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/queries/AccountQueryHandler.java" />
+        <option value="$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/QueryApplication.java" />
+        <option value="$PROJECT_DIR$/account.common/src/main/java/com/banking/account/common/dto/BaseResponse.java" />
+        <option value="$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/dto/AccountLookupResponse.java" />
+        <option value="$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/controllers/AccountLookupController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="11" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="qrs.core" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="qrs.core" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="banking-account" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qrs" type="9c53a853:ProjectViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="banking-account" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qrs" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="cqrs.core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="banking-account" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qrs" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="cqrs.core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="banking-account" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qrs" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="cqrs.core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="banking-account" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qrs" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="cqrs.core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="banking-account" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qrs" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="cqrs.core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="banking-account" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qrs" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="cqrs.core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="infraestructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="banking-account" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qrs" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="cqrs.core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="queries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="banking-account" type="b2602c69:ProjectViewProjectNode" />
+              <item name="banking-account" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="banking-account" type="b2602c69:ProjectViewProjectNode" />
+              <item name="banking-account" type="462c0819:PsiDirectoryNode" />
+              <item name="account.query" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="banking-account" type="b2602c69:ProjectViewProjectNode" />
+              <item name="banking-account" type="462c0819:PsiDirectoryNode" />
+              <item name="account.query" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="banking-account" type="b2602c69:ProjectViewProjectNode" />
+              <item name="banking-account" type="462c0819:PsiDirectoryNode" />
+              <item name="account.query" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="banking-account" type="b2602c69:ProjectViewProjectNode" />
+              <item name="banking-account" type="462c0819:PsiDirectoryNode" />
+              <item name="account.query" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="banking-account" type="b2602c69:ProjectViewProjectNode" />
+              <item name="banking-account" type="462c0819:PsiDirectoryNode" />
+              <item name="account.query" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="query" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="banking-account" type="b2602c69:ProjectViewProjectNode" />
+              <item name="banking-account" type="462c0819:PsiDirectoryNode" />
+              <item name="account.query" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="query" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="banking-account" type="b2602c69:ProjectViewProjectNode" />
+              <item name="banking-account" type="462c0819:PsiDirectoryNode" />
+              <item name="account.query" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="query" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.banking.qrs.core" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\personal-fobbing\microservices\banking-account\account.query\src\main\java\com\banking\account\query\api" />
+      <recent name="E:\personal-fobbing\microservices\banking-account" />
+      <recent name="E:\personal-fobbing\microservices\cqrs-es\cqrs.core" />
+      <recent name="E:\personal-fobbing\microservices\banking-account\account.cmd\src\main\java\com\banking\account\cmd\api\command" />
+      <recent name="E:\personal-fobbing\microservices\banking-account\account.query\src\main\java\com\banking\account\query" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application (2)">
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="account.common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.banking.account.common.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="account.cmd" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.banking.account.cmd.CommandApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="account.query" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.banking.account.query.QueryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qrs.core" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.banking.qrs.core.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cc8f577-0881-4413-9830-dbac51ea05b1" name="Default Changelist" comment="" />
+      <created>1699884292691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699884292691</updated>
+      <workItem from="1699884293834" duration="53094000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="53094000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Web" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17516778" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" weight="0.329429" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.26061493" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.14333333" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3557833" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4172767" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" weight="0.11409396" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="UML Generator" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../cqrs-es/cqrs.core/src/main/java/com/banking/qrs/core/producers/EventProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/infraestructure/AccountEventStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="940">
+          <caret line="47" column="79" lean-forward="true" selection-start-line="47" selection-start-column="79" selection-end-line="47" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/2.8.11/spring-kafka-2.8.11.jar!/org/springframework/kafka/core/KafkaTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/infraestructure/AccountEventProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cqrs-es/cqrs.core/src/main/java/com/banking/qrs/core/domain/BaseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.query/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="46" column="21" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/domain/BankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/domain/AccountRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="80" selection-start-line="8" selection-start-column="80" selection-end-line="8" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/infraestructure/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/infraestructure/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/infraestructure/handlers/AccountEventHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/infraestructure/handlers/EventHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/infraestructure/consumers/EventConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/infraestructure/consumers/AccountEventConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/api/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/api/command/AccountCommandHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/api/command/CloseAccountCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/api/command/DepostiFundsCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/api/command/OpenAccountCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/api/command/WithdrawFundsCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/api/dto/OpenAccountResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/api/controllers/OpenAccountController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.cmd/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cqrs-es/cqrs.core/src/main/java/com/banking/qrs/core/domain/AggregateRoot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-588">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.query/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cqrs-es/cqrs.core/.mvn/wrapper/maven-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="17" column="10" selection-start-line="17" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.cmd/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="75" selection-start-line="75" selection-end-line="90" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cqrs-es/cqrs.core/mvnw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cqrs-es/cqrs.core/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="118" column="58" selection-start-line="118" selection-start-column="58" selection-end-line="118" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cqrs-es/cqrs.core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/api/controllers/WithdrawFundsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/api/controllers/CloseAccountController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.common/src/main/java/com/banking/account/common/events/AccountClosedEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/api/command/CommnadHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cqrs-es/cqrs.core/src/main/java/com/banking/qrs/core/queries/BaseQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/api/controllers/DepositFundsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="41" column="5" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="41" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/queries/FindAllAccountsQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/queries/FindAccountByIdQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/queries/FindAccountByHolderQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/dto/EqualityType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/queries/FindAccountWithBalanceQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cqrs-es/cqrs.core/src/main/java/com/banking/qrs/core/queries/QueryHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cqrs-es/cqrs.core/src/main/java/com/banking/qrs/core/infraestructure/QueryDispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="90" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/infraestructure/AccountQueryDispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/queries/AccountQueryHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="59" column="31" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/queries/QueryHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.common/src/main/java/com/banking/account/common/dto/BaseResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/dto/AccountLookupResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/controllers/AccountLookupController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1540">
+          <caret line="104" column="115" selection-start-line="104" selection-start-column="115" selection-end-line="104" selection-end-column="115" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/QueryApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="28" column="97" selection-start-line="28" selection-start-column="97" selection-end-line="28" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (qrs.core)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>qrs.core</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

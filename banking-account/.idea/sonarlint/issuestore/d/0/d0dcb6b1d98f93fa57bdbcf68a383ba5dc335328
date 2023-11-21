@@ -1,0 +1,29 @@
+
+B
+java:S3457+"%String contains no format specifiers.(ò×¯å8åÇøş¾1
+¦
+java:S4449<"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(àÂĞ‘8Äˆÿ¾1
+j
+java:S5669+"MCast this argument to 'Object' to pass a single element to the vararg method.(ò×¯å8åÇøş¾1
+¦
+java:S4449R"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(àÂĞ‘8×Ãÿ¾1
+B
+java:S3457@"%String contains no format specifiers.(ò×¯å8Äˆÿ¾1
+¦
+java:S4449&"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(àÂĞ‘8æÊòş¾1
+
+java:S11921"_Define a constant instead of duplicating this literal "Errores ejecutando la consulta" 4 times.(ÿ®à­üÿÿÿÿ8×Ãÿ¾1
+B
+java:S3457W"%String contains no format specifiers.(ò×¯å8×Ãÿ¾1
+~
+java:S1192+"aDefine a constant instead of duplicating this literal "Se realizo la consulta con exito" 4 times.(ò×¯å8×Ãÿ¾1
+B
+java:S3457p"%String contains no format specifiers.(ò×¯å8Ÿ®™ÿ¾1
+j
+java:S5669W"MCast this argument to 'Object' to pass a single element to the vararg method.(ò×¯å8×Ãÿ¾1
+¦
+java:S4449k"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(àÂĞ‘8Ÿ®™ÿ¾1
+j
+java:S5669@"MCast this argument to 'Object' to pass a single element to the vararg method.(ò×¯å8Äˆÿ¾1
+j
+java:S5669p"MCast this argument to 'Object' to pass a single element to the vararg method.(ò×¯å8Ÿ®™ÿ¾1
